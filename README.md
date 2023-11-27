@@ -146,27 +146,33 @@ After cloning the folder with the repository name places-around-me will be creat
 
 Imagemap interface : 
 
-![Alt text](imgmap.png)
+![imgmap](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/044f6fc7-25fa-4013-84cf-7ff7f8abc790)
+
 
 House interface:
 
-![Alt text](image.png)
+![Screenshot from 2023-11-27 13-16-12](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/06bc82e6-e67c-4fd4-bbca-12bad845b765)
+
 
 Garden Interface:
 
-![Alt text](garden.png)
+![garden](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/35dc99dd-93a1-46ff-a39e-78f20030aaed)
+
 
 Park Interface:
 
-![Alt text](park.png)
+![park](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/1987c39a-57d3-4117-a59a-fdaceb40f56e)
+
 
 Ground Interface: 
 
-![Alt text](ground.png)
+![ground](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/94c9a1e8-eeaf-45c2-8047-805e62a1ae15)
+
 
 Lake Interface: 
 
-![Alt text](lake.png)
+![lake](https://github.com/ShriSaiAravind/places-around-me/assets/148180918/847bf366-0478-49ee-9685-10111f7f0dda)
+
 
 ## Result:
 
