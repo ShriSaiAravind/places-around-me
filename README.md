@@ -65,82 +65,82 @@ After cloning the folder with the repository name places-around-me will be creat
 
 1. map.html 
 
-<html>
-    <head>
-        <title>Server test</title>
-    </head>
-    <body>
-        <h1>imagemaps demo</h1>
-        <img src="Locality.jpeg" usemap="#image_map">
-        <map name="image_map">
-            <area alt="home" title="home" href="home.html" coords="669,502,772,555" shape="rect">
-            <area alt="lake" title="lake" href="lake.html" coords="598,115 816,120 925,5 612,3 " shape="polygon">
-            <area alt="park" title="park" href="park.html" coords="158,315,86" shape="circle">
-            <area alt="ground" title="ground" href="ground.html" coords="1163,703,201" shape="circle">
-            <area alt="garden plot" title="garden plot" href="garden.html" coords="439,632,131" shape="circle">
-        </map>
-    </body>
-</html>
+        <html>
+            <head>
+                <title>Server test</title>
+            </head>
+            <body>
+                <h1>imagemaps demo</h1>
+                <img src="Locality.jpeg" usemap="#image_map">
+                <map name="image_map">
+                    <area alt="home" title="home" href="home.html" coords="669,502,772,555" shape="rect">
+                    <area alt="lake" title="lake" href="lake.html" coords="598,115 816,120 925,5 612,3 " shape="polygon">
+                    <area alt="park" title="park" href="park.html" coords="158,315,86" shape="circle">
+                    <area alt="ground" title="ground" href="ground.html" coords="1163,703,201" shape="circle">
+                    <area alt="garden plot" title="garden plot" href="garden.html" coords="439,632,131" shape="circle">
+                </map>
+            </body>
+        </html>
 
 2. park.html
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>park</title>
-    </head>
-    <body>
-        <h1>local park</h1>
-    </body>
-</html>
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title>park</title>
+            </head>
+            <body>
+                <h1>local park</h1>
+            </body>
+        </html>
 
 3. lake.html
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>lake</title>
-    </head>
-    <body>
-        <h1>local lake</h1>
-    </body>
-</html>
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title>lake</title>
+            </head>
+            <body>
+                <h1>local lake</h1>
+            </body>
+        </html>
 
 4. home.html
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>house</title>
-    </head>
-    <body>
-        <h1>This is my house </h1>
-    </body>
-</html>
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title>house</title>
+            </head>
+            <body>
+                <h1>This is my house </h1>
+            </body>
+        </html>
 
 5. ground.html
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Cricket ground</title>
-    </head>
-    <body>
-        <h1>local cricket ground</h1>
-    </body>
-</html>
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title>Cricket ground</title>
+            </head>
+            <body>
+                <h1>local cricket ground</h1>
+            </body>
+        </html>
 
 6. garden.html
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Garden</title>
-    </head>
-    <body>
-        <h1>local garden</h1>
-    </body>
-</html>
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <title>Garden</title>
+            </head>
+            <body>
+                <h1>local garden</h1>
+            </body>
+        </html>
 
 ## Output:
 
